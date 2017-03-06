@@ -5,10 +5,13 @@ var About = (props) => {
 
     <div>
       <h1 className="text-center page-title">About page</h1>
-      <p>This is a weather application build on React javascript framework.
-        I have built this for the Complete React Web App Developer Course taught on
-        <a target='new' href="https://click.linksynergy.com/link?id=sfG5kf2jZNc&offerid=323058.755128&type=2"> Udemy
-        </a> by Andrew Mead.</p>
+      <p>This is a weather application build on <i>React</i> javascript framework.
+        I have built this Web app for the "Complete React Web App Developer" Course taught
+        by Andrew Mead on Udemy.com. </p>
+      <p>
+        It gives you the temperature of different worldwide cities live and a
+        more accurate way than browsers themselves. Just enter the name of your own city inside the right box below.
+        Let this application gives you the information you need to know.</p>
       <p>Here are some tools i used:</p>
       <ul>
         <li>
